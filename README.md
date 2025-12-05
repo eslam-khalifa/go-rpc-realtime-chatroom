@@ -4,6 +4,14 @@ A **production-ready, real-time RPC chat system** implemented in **Go** using th
 
 ---
 
+## 🎥 Demo Video
+
+Watch the project in action here:
+
+[👉 Demo Video](https://drive.google.com/file/d/1AqqoJU9RDAT40hrKHwZNgJxQjpf8fSS6/view?usp=drive_link)
+
+---
+
 ## 🎯 Features
 
 - **Real-time Broadcasting**: Messages from any client are instantly broadcast to all other connected clients
